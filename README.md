@@ -1,5 +1,3 @@
-# Team_C_Giza
-
    🎬 Cartoon Effects on Child Ideology 
 
   ---
@@ -56,9 +54,3 @@
   * **Week 3 – Design**: Create all illustrations and visual assets.
   * **Week 4 & 5 – Animation**: Animate video, sync text overlays, and add motion effects.
   * **Week 6 – Review & Delivery**: Add VoiceOver, music, finalize editing, and deliver the final video.
-  
-  ---
-  
-  ✅ With this design, it reads like a **professional project proposal** and can be presented directly to your team or supervisor.
-
-Do you want me to also **design it as a visual one-page poster layout** (with icons, colors, and sections) so you can present it like a creative project pitch instead of plain text?
