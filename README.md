@@ -38,12 +38,12 @@
   
   📂 Project Scope
   
-  * **Script Writing**: Develop bilingual (Arabic & English) VoiceOver script.
-  * **Storyboard**: Create a clear scene-by-scene storyboard (draft already prepared).
-  * **Design Assets**: Illustrate children, parents, cartoon icons, and symbolic elements.
-  * **Animation**: Animate visuals with VoiceOver and sound effects.
-  * **Editing**: Finalize with background music, polished timing, and smooth transitions.
-  * **Deliverables**: A **high-quality motion graphics video** ready for distribution across multiple platforms.
+  * **Script Writing**: Develop bilingual (Arabic & English) VoiceOver script. (Aya hany)
+  * **Storyboard**: Create a clear scene-by-scene storyboard (draft already prepared). (Mahmoud Mohamed)
+  * **Design Assets**: Illustrate children, parents, cartoon icons, and symbolic elements. (Felopater Magdy)
+  * **Animation**: Animate visuals with VoiceOver and sound effects. (Moaied Khaled )
+  * **Editing**: Finalize with background music, polished timing, and smooth transitions. (Ayaa Hisham)
+  * **Deliverables**: A **high-quality motion graphics video** ready for distribution across multiple platforms. (Felopater Magdy)
   
   ---
   
