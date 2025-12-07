@@ -55,4 +55,5 @@
   * **Week 4 & 5 – Animation**: Animate video, sync text overlays, and add motion effects.
   * **Week 6 – Review & Delivery**: Add VoiceOver, music, finalize editing, and deliver the final video.
 
-our project link "https://drive.google.com/drive/folders/1Dkw7zP9hbBAvw7ryfBDKicv5yr0bp0ae?usp=drive_link"
+our project link https://drive.google.com/drive/folders/1EWgKeyeg4R9B4fFgQzmVQGDuA2AqSqC1?usp=sharing
+
